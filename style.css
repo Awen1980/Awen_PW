@@ -1,0 +1,22 @@
+body{
+    width: 1024px;
+    margin: 0 auto;
+    background-color: silver;
+}
+header {
+    background-color: green;
+}
+article{
+        float: center;
+        width: 450px;
+        height: 100px;
+        line-height: 30px;
+        margin-bottom: 10px;
+        margin left: 10px;
+        color: red;
+}
+img{ width: 400px; height: 300px;}
+
+footer {
+    clear: left;
+}
